@@ -1,7 +1,6 @@
 # Tradução PT-BR — Dragon Ball Z: Budokai Tenkaichi 3 (PS2)
 
-![Dragon Ball Z: Budokai Tenkaichi 3 - Capa](<img width="395" height="506" alt="capa" src="https://github.com/user-attachments/assets/86c7325e-6240-4899-ad99-590057b9df55" />)
-
+![Dragon Ball Z: Budokai Tenkaichi 3 - Capa](https://static.wikia.nocookie.net/dragonball/images/5/5a/Capa-dbz-sparking%21-meteor.webp/revision/latest?cb=20240612001520&path-prefix=pt-br)
 
 Patch de tradução para Português Brasileiro do jogo **Dragon Ball Z: Budokai Tenkaichi 3** (PlayStation 2), feito por fã para fãs.
 
